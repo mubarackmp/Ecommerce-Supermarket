@@ -1,0 +1,63 @@
+
+h2{
+    text-align: center;
+    margin: 20px;
+    border-bottom: 2px solid #1100ff;
+}
+/* Style the "Buy Now" button */
+.box .buy-now-button {
+    display: block;
+    margin-top: 10px;
+    background-color: #1100ff;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.box{
+    /* height: 400px; */
+    /* background-color:black; */
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+.box a{
+    text-decoration: none;
+    color: black;
+}
+h6{
+    color: black;
+}
+.boxe{
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+}
+.boxe .buy-now-button {
+
+    display: block;
+    margin-top: 10px;
+    background-color: #1100ff;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.footere{
+    background-color: rgb(1, 1, 73);
+    height: 150px;
+    padding-top: 20px;
+}
+.coleen{
+    margin-top: 20px;
+    text-align: center;
+}
+.coleen a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.coleen p{
+    margin-top: 20px;
+    color: aliceblue;
+}

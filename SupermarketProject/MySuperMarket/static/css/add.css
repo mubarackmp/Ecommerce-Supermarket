@@ -1,0 +1,81 @@
+
+.boxe{
+    margin: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    height: 400px;
+}
+.boxe form{
+    padding:10px 0px;
+    width: 300px;
+}
+.boxe form input{
+    margin: 10px;
+    text-align: center;
+    border:0.01px solid rgb(96, 96, 99);
+    border-radius: 5px;
+    background-color: rgb(244, 241, 238);
+}
+.boxe form select{
+    margin: 10px;
+    /* text-align: center; */
+    border:0.01px solid rgb(96, 96, 99);
+    border-radius: 5px;
+    background-color: rgb(244, 241, 238);
+}
+.boxe form button{
+    margin-top: 5px;
+    width: 130px;
+    color: white;
+    border:0.01px solid gray;
+    border-radius: 5px;
+    background-color: blue;
+}
+.boxe form button:hover{
+    color: rgb(237, 237, 240);
+    width: 150px;
+    background-color: darkblue;
+    border: 1px solid black;
+
+}
+
+.boxee{
+    margin: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+.boxee form{
+    padding:10px 0px;
+    /* width: 300px; */
+}
+.boxee form input{
+    margin: 10px;
+    text-align: center;
+    border:0.01px solid rgb(96, 96, 99);
+    border-radius: 5px;
+    background-color: rgb(244, 241, 238);
+}
+.boxee form select{
+    margin: 10px;
+    /* text-align: center; */
+    border:0.01px solid rgb(96, 96, 99);
+    border-radius: 5px;
+    background-color: rgb(244, 241, 238);
+}
+.boxee form button{
+    margin-top: 5px;
+    width: 130px;
+    color: white;
+    border:0.01px solid gray;
+    border-radius: 5px;
+    background-color: rgb(52, 108, 250);
+}
+.boxee form button:hover{
+    color: rgb(237, 237, 240);
+    width: 150px;
+    background-color: darkblue;
+    border: 1px solid black;
+
+}
